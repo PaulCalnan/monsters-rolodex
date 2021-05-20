@@ -12,7 +12,7 @@ Simple React project, great tutorial to learn some beginner React concepts.
 
 ##
 
-![Monsters-Rolodex](/MonstersRolodex ScreenShot.png)
+![Monsters-Rolodex](/src/MR.jpg)
 
 
 ## Requirements
